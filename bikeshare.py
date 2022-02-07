@@ -162,7 +162,7 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data(df):
-    """Displays raw data upon request of the users."""
+    """Displays raw data upon request of the user."""
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
