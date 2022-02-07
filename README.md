@@ -7,7 +7,7 @@
 Exploration of US bikeshare data
 
 ### Description
-The project explores bikeshare data of three different US cities. It's interactive as user decide what data they want to have displayed. For example they can choose the city, the respective month/weekday and if they want to see raw data
+The project explores bikeshare data of three different US cities. It's interactive as users decide what data they want to have displayed. For example they can choose the city, the respective month/weekday and if they want to see raw data. User get the most important statistics linked to the respective city.
 
 ### Files used
 bikeshare.py
